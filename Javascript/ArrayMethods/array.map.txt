@@ -1,0 +1,3 @@
+.map(): ejecuta un callback en cada elemento del array y retorna un nuevo array
+con el resultado del callback. El array original no se modifica, y el que
+retorna el map es un nuevo array con los resultados.

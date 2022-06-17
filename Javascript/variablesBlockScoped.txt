@@ -1,0 +1,1 @@
+const y let solo puedens ser accedidas dentro del bloque en las que son declaradas.

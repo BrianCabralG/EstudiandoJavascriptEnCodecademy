@@ -1,0 +1,2 @@
+Una higher-order function es una funcion que acepta funciones como parametros
+o que devuelve una funcion.

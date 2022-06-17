@@ -1,0 +1,2 @@
+Las Funciones Anonimas no tienen un nombre. Pueden ser definidas usando la palabra
+function() o como una funcion de flecha.

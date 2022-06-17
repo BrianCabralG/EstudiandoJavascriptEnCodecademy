@@ -1,0 +1,2 @@
+Var: crea una variable local y puede ser reasignada.
+Const: tiene que estar asignada y no se puede reasignar.

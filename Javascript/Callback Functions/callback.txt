@@ -1,0 +1,3 @@
+Callback function: es una funcion pasada dentro de otra funcion como 
+argumento, que puede ser invocada durante la ejecucion de la misma.
+

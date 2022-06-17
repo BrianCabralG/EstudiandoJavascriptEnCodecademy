@@ -1,0 +1,3 @@
+Undefined: es cuando declaramos una variable pero no le asignamos un valor.
+null: cuando el valor es es vacio o ausente.
+ 

@@ -1,0 +1,3 @@
+.filter(): ejecuta un callback a cada elemento del array devolviendo true o 
+false. Luego retorna un nuevo array con todos los elementos que dieron como 
+resultado true.

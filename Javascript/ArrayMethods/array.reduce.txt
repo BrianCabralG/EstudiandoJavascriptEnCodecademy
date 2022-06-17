@@ -1,0 +1,5 @@
+.reduce(): recorre el array y devuelve un solo valor. Tiene dos parametros, el 
+primero es el valor que va a devolver y el segundo es el valor en cada posicion
+del array. El cuerpo de la funcion es la logica que se le quiere aplicar al array
+o a sus elemenos.
+

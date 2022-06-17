@@ -1,0 +1,2 @@
+Funciones: son un conjunto de delaraciones que realizan una tarea. Estas 
+declaraciones son totalmente reusables. 

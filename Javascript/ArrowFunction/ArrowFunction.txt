@@ -1,0 +1,5 @@
+Arrrow Function: no requieren la palabra function para ser declaradas. Usan =>
+para separar el parametro del cuerpo de la funcion. Cuando tienen un solo 
+parametro no necesitan (). Cuando tienen una sola expresion no necesitan un return.
+
+
