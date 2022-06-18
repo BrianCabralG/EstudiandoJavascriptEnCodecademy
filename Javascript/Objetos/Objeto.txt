@@ -1,0 +1,7 @@
+Objeto: un objeto es un dato de tipo built-in que sirve para guardar pares de 
+llave-valor. La data dentro del objeto no tiene orden y los valores pueden ser 
+de cualquier tipo.
+Cuando querramos acceder a una propiedad que no existe de un objeto esta va a 
+devolver undefined.
+Los objetos son mutables. Su contenido puede ser cambiado aun cuando se los declara
+como const. 

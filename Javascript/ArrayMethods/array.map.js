@@ -5,4 +5,4 @@ const announcements = finalParticipants.map(member => {
   return member + ' joined the contest.';
 })
  
-console.log(announcements);
+console.log(announcements)

@@ -1,0 +1,2 @@
+For...in: es usado para iterar sobre las keys del objeto. En cada iteracion una 
+de las popiedades del objeto es asiganda sobre la variable que se usa.
