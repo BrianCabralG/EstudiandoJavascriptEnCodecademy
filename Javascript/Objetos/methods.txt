@@ -1,0 +1,3 @@
+Los metodos son funciones que estan pasadas como propiedades dentro del objeto. 
+Los metodos pueden ser definidos usando arrow functions anonimas o con la 
+sintaxis de los shorthand methods.

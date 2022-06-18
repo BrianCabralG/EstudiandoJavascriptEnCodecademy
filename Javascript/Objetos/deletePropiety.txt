@@ -1,0 +1,1 @@
+delete object.propiety: se utiliza para eliminar una propiedad del objeto.

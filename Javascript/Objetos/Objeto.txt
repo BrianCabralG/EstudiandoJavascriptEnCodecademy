@@ -5,3 +5,6 @@ Cuando querramos acceder a una propiedad que no existe de un objeto esta va a
 devolver undefined.
 Los objetos son mutables. Su contenido puede ser cambiado aun cuando se los declara
 como const. 
+Los que son pasados como argumentos a las funciones son pasados por referencia,
+es decir que el objeto(no una copia) es totalmente modificable desde una
+funcion.
